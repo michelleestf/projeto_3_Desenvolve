@@ -7,8 +7,8 @@ console.log("Nome completo:", fullName);
 
 const verificacao = fullName.toLowerCase().includes('a');
 if(verificacao === true){
-    console.log ("O nome contem a letra 'a.");
+    console.log ("O nome contem a letra 'a'.");
 }
 else{
-        console.log ("O nome não contem a letra 'a.");
+        console.log ("O nome não contem a letra 'a'.");
 }
