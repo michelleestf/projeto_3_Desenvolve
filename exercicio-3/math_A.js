@@ -1,3 +1,6 @@
+// Exercícios de operações matemáticas - Michelle
+//Desafio a):Calcule a média de 3 números: 15, 25 e 38
+
 const numb1 = 15;
 const numb2 = 25;
 const numb3 = 38;

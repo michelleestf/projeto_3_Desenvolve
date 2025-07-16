@@ -1,3 +1,6 @@
+// Exercícios de manipulação de strings - Michelle
+//Desafio c): Substitua "Silva" por outro sobrenome usando replace:
+
 const firstName = "Maria";
 const lastName = "Silva";
 const fullName = firstName + " " + lastName;
