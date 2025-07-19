@@ -9,6 +9,7 @@ const students = [
   { name: "Carlos", age: 22, grades: [90, 88, 92] },
 ];
 
+// Calcula a média das notas de cada aluno e exibe o resultado de aprovação/reprovação
 for (let i = 0; i < students.length; i++) {
   const student = students[i];
   let sum = 0;
