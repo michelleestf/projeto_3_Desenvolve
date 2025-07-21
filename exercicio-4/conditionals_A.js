@@ -6,6 +6,7 @@
 // 90-100: A
 
 //notas para gerar a média
+
 const array = [70,90,85];
 
 console.log(mediaAluno(array));
