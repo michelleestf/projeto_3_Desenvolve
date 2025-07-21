@@ -1,4 +1,4 @@
-// Dados de alunos
+// Dados de alunos - Bianca
 const students = [
   { name: "João", age: 20, grades: [85, 90, 78] },
   { name: "Maria", age: 19, grades: [92, 95, 89] },

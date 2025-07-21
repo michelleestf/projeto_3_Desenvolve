@@ -1,4 +1,4 @@
-//Exercicio 5 - Tabuada de 7
+//Exercicio 5 - Tabuada de 7 - Yasmin
 // a) Crie um loop que imprima a tabuada do 7 (de 1 a 10)
 
 console.log("Tabuada de 7:");
