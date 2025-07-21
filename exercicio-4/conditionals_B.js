@@ -1,5 +1,4 @@
 // b) Verifique se um número é par ou ímpar - Christiane
-
 let numero = 80;
 
 let parOuImpar = ( numero % 2 ) === 0 ? 'Par' : 'Ímpar' ;
