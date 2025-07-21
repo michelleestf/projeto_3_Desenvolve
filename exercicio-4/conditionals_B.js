@@ -1,4 +1,4 @@
-// b) Verifique se um número é par ou ímpar
+// b) Verifique se um número é par ou ímpar - Christiane
 
 let numero = 80;
 

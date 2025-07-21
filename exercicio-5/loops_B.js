@@ -1,4 +1,4 @@
-// Exercicio 5 - b) Crie um array de números e calcule a soma deles usando um loop
+// Exercicio 5 - b) Crie um array de números e calcule a soma deles usando um loop -Yasmin
 const numeros = [5, 1, 8, 9, 7]; 
 let soma = 0; 
 
